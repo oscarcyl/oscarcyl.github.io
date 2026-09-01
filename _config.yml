@@ -84,12 +84,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books: 'testing 1'
-    title: 'Books'
-  manuscripts: 'testing 2'
-    title: 'Journal Articles'    
-  conferences: 'testing 3'
-    title: 'testing 4'
+  books: 
+    title: 'testing 1'
+  manuscripts: 
+    title: 'testing 2'    
+  conferences: 
+    title: 'testing 3'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
