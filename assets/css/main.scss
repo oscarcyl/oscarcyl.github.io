@@ -37,3 +37,8 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Hide the bottom footer bar completely */
+.page__footer {
+  display: none !important;
+}

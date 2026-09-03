@@ -11,46 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MPhil in Mathematics, The Chinese University of Hong Kong, 2027 (expected)
+* BSc in Mathematics (Enrichment Stream and Computational and Applied Mathematics Stream), The Chinese University of Hong Kong, 2025
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2024 - Jul 2025: Student Research Assistant
+  * The Chinese University of Hong Kong
+  * Developed a mathematical framework applying 3D surface curvature to analyze the correlation between earthquake magnitude and occurrence frequency.
+  * Supervisor: Prof. Gary Choi
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mar 2024 - Jul 2024: Undergraduate Research Opportunity Program
+  * The Chinese University of Hong Kong
+  * Formulated 3D geometric descriptors including surface curvature and Beltrami coefficients across target facial regions for feature extraction.
+  * Designed a machine learning framework to classify pediatric sleep apnea risk based on extracted quasi conformal shape features.
+  * Supervisor: Prof. Ronald Lok Ming Lui
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming skills
+  * MATLAB
+  * Python
+  * C++
+* Languages
+  * Cantonese (Native)
+  * English (Fluent)
+  * Mandarin (Fluent)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
@@ -59,6 +50,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
