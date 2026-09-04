@@ -26,6 +26,12 @@ Experience
   * Formulated 3D geometric descriptors including surface curvature and Beltrami coefficients across target facial regions for feature extraction.
   * Designed a machine learning framework to classify pediatric sleep apnea risk based on extracted quasi conformal shape features.
   * Supervisor: Prof. Ronald Lok Ming Lui
+
+Honors & Awards
+======
+* 2025 to Present - Postgraduate Studentship, CUHK
+* 2024 - Gold Award in Undergraduate Research Opportunity Program, CUHK
+* 2021 - Mathematics Scholarship, Department of Mathematics, CUHK
   
 Skills
 ======
